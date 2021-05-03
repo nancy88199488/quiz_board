@@ -1,0 +1,11 @@
+.container {
+    background-image: url(../images/images-quiz.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 40px 30px 40px 200px;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+    
+}
